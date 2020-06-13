@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$USER_HOME$/Demo/pom.xml" />
+        <option value="$USER_HOME$/githubProject/netty-learning-example/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$USER_HOME$/githubProject/netty-learning-example/netty-helloworld/pom.xml" />
+        <option value="$USER_HOME$/githubProject/netty-learning-example/netty-http/pom.xml" />
+        <option value="$USER_HOME$/githubProject/netty-learning-example/netty-im/pom.xml" />
+        <option value="$USER_HOME$/githubProject/netty-learning-example/netty-iot/pom.xml" />
+        <option value="$USER_HOME$/githubProject/netty-learning-example/netty-jpa-mysql/pom.xml" />
+        <option value="$USER_HOME$/githubProject/netty-learning-example/netty-kafka/pom.xml" />
+        <option value="$USER_HOME$/githubProject/netty-learning-example/netty-mybatis-mongodb/pom.xml" />
+        <option value="$USER_HOME$/githubProject/netty-learning-example/netty-rpc/pom.xml" />
+        <option value="$USER_HOME$/githubProject/netty-learning-example/netty-springboot-protobuf/pom.xml" />
+        <option value="$USER_HOME$/githubProject/netty-learning-example/netty-webflux/pom.xml" />
+        <option value="$USER_HOME$/githubProject/netty-learning-example/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

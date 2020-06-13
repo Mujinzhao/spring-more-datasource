@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/parent" charset="UTF-8" />
+    <file url="file://$USER_HOME$/githubProject/netty-4-user-guide-demos/netty4-demos" charset="UTF-8" />
+    <file url="file://$USER_HOME$/githubProject/netty-learning-example/netty-helloworld" charset="UTF-8" />
+    <file url="file://$USER_HOME$/githubProject/netty-learning-example/netty-http" charset="UTF-8" />
+    <file url="file://$USER_HOME$/githubProject/netty-learning-example/netty-im" charset="UTF-8" />
+    <file url="file://$USER_HOME$/githubProject/netty-learning-example/netty-iot" charset="UTF-8" />
+    <file url="file://$USER_HOME$/githubProject/netty-learning-example/netty-kafka" charset="UTF-8" />
+    <file url="file://$USER_HOME$/githubProject/netty-learning-example/netty-rpc" charset="UTF-8" />
+    <file url="file://$USER_HOME$/githubProject/netty-learning-example/netty-springboot-protobuf" charset="UTF-8" />
+    <file url="file://$USER_HOME$/githubProject/netty-learning-example/netty-webflux" charset="UTF-8" />
+    <file url="file://$USER_HOME$/githubProject/spring-framework/MyTest/src/test/resources/beans.xml" charset="UTF-8" />
+  </component>
+</project>

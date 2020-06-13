@@ -1,0 +1,9 @@
+com/didi/db/mapper/PayDOMapper.class
+com/didi/db/model/PayDO$PayDOBuilder.class
+com/didi/db/util/ResourceUtil.class
+com/didi/db/XinkunMode/UserDO.class
+com/didi/db/model/PayDO.class
+com/didi/db/XinkunDao/UserDOMapper.class
+com/didi/db/XinkunServiceImpl/RedisServiceImpl.class
+com/didi/db/config/JedisAutoConfigure.class
+com/didi/db/Service/ServiceTest.class
